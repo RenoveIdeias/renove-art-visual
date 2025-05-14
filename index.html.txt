@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Empresa de comunicação visual em destaque: fachadas, adesivos, banners, placas e mais!">
+  <title>Renove Art Visual</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="imagens/logo.png" alt="Renove Art Visual" class="logo" />
+    <nav>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#servicos">Serviços</a></li>
+        <li><a href="#portfolio">Portfólio</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Renove Art Visual</h1>
+    <p>Transformamos ideias em arte com criatividade e qualidade.</p>
+  </section>
+
+  <section id="sobre" class="section">
+    <h2>Sobre Nós</h2>
+    <p>Somos uma empresa especializada em comunicação visual com anos de experiência no mercado. Trabalhamos com soluções criativas, personalizadas e de alta qualidade para impulsionar a imagem do seu negócio.</p>
+  </section>
+
+  <section id="servicos" class="section">
+    <h2>Serviços</h2>
+    <ul>
+      <li>🎨 Fachadas comerciais</li>
+      <li>🚗 Adesivação de veículos</li>
+      <li>📦 Letreiros e placas</li>
+      <li>🖼️ Banners e lonas</li>
+      <li>🏢 Comunicação interna e sinalização</li>
+    </ul>
+  </section>
+
+  <section id="portfolio" class="section">
+    <h2>Portfólio</h2>
+    <img src="imagens/fachada.jpg" alt="Exemplo de Fachada" class="portfolio-img" />
+    <p>Confira alguns dos nossos trabalhos já realizados.</p>
+  </section>
+
+  <section id="contato" class="section contato">
+    <h2>Contato</h2>
+    <p>📞 (18) 99735-0160</p>
+    <p>📧 renoveartvisual@gmail.com</p>
+    <p>📍 Rua José Cobra, 1283 - São José Dos Campos - SP</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Renove Art Visual. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
